@@ -1,6 +1,8 @@
 # IPRFormattingTool
 
-The IPR formatting tool is intended for use by interns along with the appropriate timekeeping application and sheets. The tool aims to automate formatting after the intern downloads their timesheets from the timemkeeping application. The application was developed in Python and compiled into an executable file via Pyinstaller, which should allow Windows and Linux users to run the application without installing Python.
+The IPR formatting tool is intended for use by interns along with the appropriate timekeeping application and sheets. The tool aims to automate formatting after the intern downloads their timesheets from the timemkeeping application. 
+
+The application was developed in Python and compiled into an executable file via Pyinstaller, which should allow Windows and Linux users to run the application without installing Python.
 
 ## Platform Requirements
 The requirements for running the application are as follows:
